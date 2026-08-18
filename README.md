@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0013-roman-to-integer) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -29,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0035-search-insert-position) |
 | [0204-count-primes](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0204-count-primes) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0035-search-insert-position) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Enumeration
 |  |
 | ------- |
@@ -53,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
