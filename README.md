@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0204-count-primes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -66,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0088-merge-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0088-merge-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
