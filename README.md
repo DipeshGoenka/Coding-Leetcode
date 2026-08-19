@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0204-count-primes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1732-find-the-highest-altitude](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
