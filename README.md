@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0058-length-of-last-word) |
+| [0796-rotate-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
