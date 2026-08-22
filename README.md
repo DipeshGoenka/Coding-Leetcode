@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0204-count-primes) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
