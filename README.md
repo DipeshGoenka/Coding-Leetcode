@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0204-count-primes) |
+| [1927-sum-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0058-length-of-last-word) |
 | [0796-rotate-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1927-sum-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1927-sum-game) |
 ## Array
 |  |
 | ------- |
@@ -140,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0064-minimum-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
