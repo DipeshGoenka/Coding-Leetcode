@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0771-jewels-and-stones](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0058-length-of-last-word) |
+| [0771-jewels-and-stones](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1927-sum-game) |
