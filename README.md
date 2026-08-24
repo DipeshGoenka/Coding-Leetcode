@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0877-stone-game) |
+| [1753-maximum-score-from-removing-stones](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1872-stone-game-viii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1753-maximum-score-from-removing-stones](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1927-sum-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-maximum-score-from-removing-stones](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 <!---LeetCode Topics End-->
