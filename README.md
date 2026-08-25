@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
