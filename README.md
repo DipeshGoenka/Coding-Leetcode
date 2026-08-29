@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0204-count-primes) |
+| [0279-perfect-squares](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0292-nim-game) |
 | [0504-base-7](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0877-stone-game) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0279-perfect-squares](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1872-stone-game-viii) |
 ## Memoization
@@ -258,4 +260,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
