@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0292-nim-game) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0292-nim-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
