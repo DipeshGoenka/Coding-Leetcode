@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0072-edit-distance) |
 | [0504-base-7](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0504-base-7) |
 | [0771-jewels-and-stones](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0796-rotate-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0279-perfect-squares](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0279-perfect-squares) |
