@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0072-edit-distance) |
+| [0392-is-subsequence](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0504-base-7) |
 | [0771-jewels-and-stones](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0771-jewels-and-stones) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0392-is-subsequence) |
 | [1089-duplicate-zeros](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0279-perfect-squares](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0279-perfect-squares) |
+| [0392-is-subsequence](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1872-stone-game-viii) |
 ## Memoization
