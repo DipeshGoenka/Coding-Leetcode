@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0412-fizz-buzz) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0877-stone-game) |
 | [1753-maximum-score-from-removing-stones](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1753-maximum-score-from-removing-stones) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0072-edit-distance) |
+| [0412-fizz-buzz](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0504-base-7) |
 | [0771-jewels-and-stones](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0796-rotate-string) |
