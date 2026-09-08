@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0279-perfect-squares) |
 ## Knapsack Problem
 |  |
@@ -324,4 +325,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
