@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
