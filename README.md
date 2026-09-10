@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0389-find-the-difference](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0771-jewels-and-stones) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0115-distinct-subsequences) |
+| [0389-find-the-difference](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0504-base-7) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0148-sort-list) |
+| [0389-find-the-difference](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0078-subsets) |
+| [0389-find-the-difference](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0645-set-mismatch) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
