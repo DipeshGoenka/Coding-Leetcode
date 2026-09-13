@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0806-number-of-lines-to-write-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0835-image-overlap](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0835-image-overlap) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/2574-left-and-right-sum-differences) |
