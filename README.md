@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0806-number-of-lines-to-write-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0835-image-overlap](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0877-stone-game) |
 | [1089-duplicate-zeros](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0835-image-overlap](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0835-image-overlap) |
 ## Greedy
 |  |
 | ------- |
