@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1768-merge-strings-alternately](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Array
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
