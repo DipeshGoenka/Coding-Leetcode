@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0835-image-overlap) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0645-set-mismatch) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0279-perfect-squares) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Knapsack Problem
 |  |
 | ------- |
