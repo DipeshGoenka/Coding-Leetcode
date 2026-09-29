@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0115-distinct-subsequences) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0070-climbing-stairs) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DipeshGoenka/Coding-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
